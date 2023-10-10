@@ -48,6 +48,7 @@ ${data.description}
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -63,6 +64,8 @@ ${data.credits}
 
 ## License
 ${licenseSection}
+
+## Tests
 
 ## Questions
 

@@ -24,7 +24,9 @@ Screenshots:
 ## Credits
 Charles Huurman
 
-## License
+## Tests
+Several tests were performed, like this one: [Youtube video example](https://youtu.be/CY3Y-JaFjg4)
+
 ## License
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
