@@ -9,6 +9,7 @@ The README Generator is a command-line application that allows developers to qui
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Tests](#tests)
 - [License](#license)
 
 ## Installation
@@ -48,6 +49,9 @@ Here you can see an example video: [Youtube video example](https://youtu.be/CY3Y
 ## Credits
 
 - This project was created by [Charles Huurman] - [GitHub Profile](https://github.com/charleshuurman)
+
+## Tests
+Several tests were made like this one: [Youtube video example](https://youtu.be/CY3Y-JaFjg4)
 
 ## License
 
