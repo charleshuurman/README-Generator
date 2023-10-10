@@ -15,7 +15,7 @@ The README Generator is a command-line application that allows developers to qui
 
 To install the README Generator, follow these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository from: [GitHub repository](https://github.com/charleshuurman/README-Generator)  to your local machine.
 2. Open your terminal and navigate to the project directory.
 3. Run the following command to install the required dependencies:
 
@@ -40,10 +40,14 @@ To use the README Generator, follow these steps:
 
 6. You can customize the generated README further if needed.
 
+![Screenshot](Develop/Screenshot1.png)
+![Screenshot](Develop/Screenshot2.png)
+
+Here you can see an example video: [Youtube video example](https://youtu.be/CY3Y-JaFjg4)
 
 ## Credits
 
-- This project was created by [Your Name] - [GitHub Profile](https://github.com/yourusername)
+- This project was created by [Charles Huurman] - [GitHub Profile](https://github.com/charleshuurman)
 
 ## License
 
